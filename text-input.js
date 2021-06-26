@@ -1,6 +1,6 @@
 //
 document.getElementById("title_job").innerHTML = "Mục tiêu nghề nghiệp";
-document.getElementById("job").innerHTML = "Tôi mong muốn tìm được một môi terường làm việc thân thiện, có cơ hội để thể hiện những kiến thức, kỹ năng và hoàn thiện bản thân. Từng bước nâng cao kiến thức chuyên môn lập trình và hoàn thành tốt công việc. Hơn thế nữa là vai trò một thành viên trong công ty có khả năng thăng tiến.";
+document.getElementById("job").innerHTML = "Tôi mong muốn tìm được một môi trường làm việc thân thiện, có cơ hội để thể hiện những kiến thức, kỹ năng và hoàn thiện bản thân. Từng bước nâng cao kiến thức chuyên môn lập trình và hoàn thành tốt công việc. Hơn thế nữa là vai trò một thành viên trong công ty có khả năng thăng tiến.";
 //
 document.getElementById("title_education").innerHTML = "Học vấn";
 document.getElementById("education").innerHTML =
