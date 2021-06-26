@@ -5,10 +5,10 @@ document.getElementById("job").innerHTML = "Tôi mong muốn tìm được một
 document.getElementById("title_education").innerHTML = "Học vấn";
 document.getElementById("education").innerHTML =
     "<span class='text-title2'>Đại học khoa học tự nhiên - dhqg tp.hcm</br></span>" +
-    "<span class='text-detail'>Khoa: Khoa học Môi trường; chuyên ngành tin học môi trường.</br></span>" +
-    "<span class='text-detail'>Khoa Công nghệ thông tin; chương trình văn bằng hai Đào tạo từ xa.</br></span>" +
+    "<span class='text-detail'>Khoa Khoa học Môi trường; chuyên ngành tin học môi trường.</br></span>" +
+    "<span class='text-detail'>Khoa Công nghệ thông tin; chương trình văn bằng hai.</br></span>" +
     "<span class='text-title2'>trung tâm tin học đại học khoa học tự nhiên - tphcm.</br></span>" +
-    "<span class='text-detail'>Thiết kế giao diện web </br> Thiết kế web </br> Thiết kế wen cho thiết bị di động </br> React Native cơ bản </br> Lập trình Android.</span>";
+    "<span class='text-detail'>Thiết kế giao diện web </br> Thiết kế web </br> Thiết kế web cho thiết bị di động </br> React Native cơ bản </br> Lập trình Android.</span>";
 //
 document.getElementById("title_experience").innerHTML = "Hoạt động và Kinh nghiệm";
 document.getElementById("experience").innerHTML =
