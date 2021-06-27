@@ -31,7 +31,7 @@ document.getElementById("skill").innerHTML =
     "<span class='text-title2'>Tin học văn phòng</br></span>" +
     "<span class='text-detail'>Có thể sử dụng tốt các phần mền như Word, Excel, Photoshop.</br></span>" +
     "<span class='text-title2'>Hoạt động nhóm</br></span>" +
-    "<span class='text-detail'>Có khản năng quản lý và hoạt động nhóm.</span>"
+    "<span class='text-detail'>Có khả năng quản lý và hoạt động nhóm.</span>"
     //
 document.getElementById("title_award").innerHTML = "Giải thưởng";
 document.getElementById("award").innerHTML =
